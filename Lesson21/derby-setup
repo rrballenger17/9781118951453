@@ -1,0 +1,5 @@
+export PATH=$PATH:/Users/ryanballenger/Desktop/derby/bin
+
+export DERBY_HOME=/Users/ryanballenger/Desktop/derby
+
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home
